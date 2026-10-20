@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react"
-import resumeUrl from "@/imports/Rajesh_S_Resume_2026-1.pdf"
+import resumeUrl from "@/imports/Resume.pdf"
 import reelUrl from "@/imports/Rajesh_Shankar.mp4"
 import fastagThumb from "@/imports/image-11.png"
 import luluThumb from "@/imports/image-12.png"
