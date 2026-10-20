@@ -1,0 +1,11 @@
+{
+  "title": "Rajesh Sankar Portfolio",
+  "description": "Offers personalized portfolio redesign suggestions by analyzing existing sites to optimize layout and positioning for enhanced professional impact.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
