@@ -138,7 +138,7 @@ const PROJECTS: Project[] = [
       "A next-generation case management portal that streamlines onboarding — letting teams build, create, and manage applications from a single, reimagined workspace.",
     tags: ["Case study", "Web app", "Enterprise", "Client project"],
     image: connectThumb,
-    link: "https://www.figma.com/proto/ElIRK1boOTJBJLZSzuzPZK/Connect-Revamp?node-id=1245-39808&p=f&viewport=154%2C228%2C0.03&t=bGcf6dHWYRdTQSGw-1&scaling=scale-down&content-scaling=fixed&page-id=96%3A766&starting-point-node-id=1245%3A39808",
+    link: "https://www.figma.com/proto/ElIRK1boOTJBJLZSzuzPZK/Connect?node-id=58029-26125&t=b1EJXz5omajXxI4Z-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=58029%3A26125&page-id=58029%3A6",
   },
 ]
 
